@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Buyer Application ScreenShots
 # 1 Home Screen
 
-![WhatsApp Image 2024-02-13 at 11 13 26 PM (1)](https://github.com/rahul06r/E-commerce-APP/assets/73331680/673a0021-4567-4d61-94d3-b8ec5cac6383 | width=100 | height=100)
+![WhatsApp Image 2024-02-13 at 11 13 26 PM (1)](https://github.com/rahul06r/E-commerce-APP/assets/73331680/673a0021-4567-4d61-94d3-b8ec5cac6383 | width=100 )
