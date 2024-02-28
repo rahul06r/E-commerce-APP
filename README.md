@@ -47,7 +47,7 @@ If this is your first Flutter project or if you need a refresher, here are some 
 
 This project is actively being developed, and new features will be added over time. If you have any new ideas or suggestions, or if you'd like to contribute to the project, please contact me for free on Instagram at [flutter_boydev](https://www.instagram.com/flutter_boydev/)
 
-<span style="color:blue">Don't forget to give this project a star!</span>
+## <span style="color:blue">Don't forget to give this project a star!</span>
 
 
 
