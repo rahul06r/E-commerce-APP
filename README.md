@@ -37,7 +37,7 @@ If this is your first Flutter project or if you need a refresher, here are some 
 <img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
 
 ## Order Page
-<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.25%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
 
 
 
