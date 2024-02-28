@@ -1,6 +1,10 @@
 # app_ecommerce
 
 Welcome to the app_ecommerce project! This Flutter project serves as a starting point for developing a mobile application for e-commerce purposes.
+1) Riverpod Provider architecture.
+2) FirebaseAuth for authentication
+3) Firebase Cloud Firestore as backend database
+4) MVC architecture
 
 ## Getting Started
 
