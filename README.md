@@ -15,9 +15,36 @@ If this is your first Flutter project or if you need a refresher, here are some 
 ### Home Screen
 <img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
 
+## Category
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Profile
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Product Description 
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+##  Question and Answer Section and Review Rating Part
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Post Question 
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Rating Part
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Cart Page
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
+
+## Order Page
+<img src="https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg" alt="Home Screen" height="400px" width="auto">
 
 
-(Include additional screenshots or descriptions of other screens as needed)
+
+
+
+
+
 
 ## Contributing
 
