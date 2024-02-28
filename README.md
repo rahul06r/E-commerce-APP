@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 1) Home Screen
-    ![Image Alt Text](https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg|width="10")
+    ![Image Alt Text](https://github.com/rahul06r/E-commerce-APP/blob/buyerBranch/Buyer%20Assets/WhatsApp%20Image%202024-02-13%20at%2011.13.21%20PM.jpeg)
+
+
 3) 
    
 
