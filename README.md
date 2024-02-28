@@ -9,6 +9,7 @@ If this is your first Flutter project or if you need a refresher, here are some 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab) - A step-by-step guide to writing your first Flutter application.
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook) - A collection of useful Flutter code snippets and examples.
 - [Online documentation](https://docs.flutter.dev/) - Comprehensive documentation providing tutorials, samples, guidance on mobile development, and a full API reference.
+- <span style="color:blue">Don't forget to give this project a star!</span>
 
 ## Screenshots
 
@@ -45,6 +46,8 @@ If this is your first Flutter project or if you need a refresher, here are some 
 ## Ongoing Development
 
 This project is actively being developed, and new features will be added over time. If you have any new ideas or suggestions, or if you'd like to contribute to the project, please contact me for free on Instagram at [flutter_boydev](https://www.instagram.com/flutter_boydev/)
+
+<span style="color:blue">Don't forget to give this project a star!</span>
 
 
 
